@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coolham>
+	<visit-blog>
+		<blog name='zgrwzj'>
+			<request-items>
+				<request id="1">
+					<host>blog.sina.com.cn</host>
+					<uri>/zgrwzj</uri>
+					<referer></referer>
+				</request>
+				<request id="2">
+					<host>simg.sinajs.cn</host>
+					<uri>/blog7style/css/blog/newblog.css</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="3">
+					<host>simg.sinajs.cn</host>
+					<uri>/blog7newtpl/css/3/3_29/t.css</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="">
+					<host>simg.sinajs.cn</host>
+					<uri>/blog7style/images/common/topbar/topbar_logo.gif</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="">
+					<host>simg.sinajs.cn</host>
+					<uri>/blog7style/images/common/topbar/topbar.png</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="5">
+					<host>portrait5.sinaimg.cn</host>
+					<uri>/1769032844/blog/180</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="6">
+					<host>static8.photo.sina.com.cn</host>
+					<uri>/bmiddle/69714c8ct909b2ab433f7&amp;690</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="7">
+					<host>sjs.sinajs.cn</host>
+					<uri>/blog7common/js/boot.js</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="">
+					<host>www.sinaimg.cn</host>
+					<uri>/unipro/pub/suda_s_v911c.js</uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+				<request id="8">
+					<host>sjs.sinajs.cn</host>
+					<uri>/blog7/index.js?82.js </uri>
+					<referer>http://blog.sina.com.cn/zgrwzj</referer>
+				</request>
+			</request-items>
+		</blog>
+	</visit-blog>
+</coolham>

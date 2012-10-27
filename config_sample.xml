@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coolham><task><target-url><url name="xiaoliang">http://www.rongshuxia.com/book/1234.html</url></target-url><target-num>500</target-num><process-num>1</process-num><per-dial-num>2</per-dial-num><use-adsl>1</use-adsl></task><adsl><name>CNC</name><user>2000012345</user><password>cdddd4</password></adsl></coolham>
